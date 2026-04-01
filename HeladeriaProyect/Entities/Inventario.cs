@@ -3,6 +3,7 @@
     public class Inventario
     {
         public int Id { get; set; }
+
         public int SaborHeladoId { get; set; }
         public SaborHelado SaborHelado { get; set; }
 
