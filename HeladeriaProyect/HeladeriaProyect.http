@@ -1,0 +1,6 @@
+@HeladeriaProyect_HostAddress = http://localhost:5022
+
+GET {{HeladeriaProyect_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
