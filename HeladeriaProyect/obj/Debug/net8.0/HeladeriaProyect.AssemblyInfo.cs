@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HeladeriaProyect")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c3ccd258e287879810ae8e3c1d3e40acc144cd0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f0862fa8f191c169a7cf63478d73b184e927eb5")]
 [assembly: System.Reflection.AssemblyProductAttribute("HeladeriaProyect")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HeladeriaProyect")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
