@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBC8CD11-313B-4D86-B2E9-5120B0CB0604}|HeladeriaProyecto\\HeladeriaProyecto.csproj|c:\\users\\owner\\documents\\github\\heladeriaproyect\\heladeriaproyecto\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBC8CD11-313B-4D86-B2E9-5120B0CB0604}|HeladeriaProyecto\\HeladeriaProyecto.csproj|solutionrelative:heladeriaproyecto\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBC8CD11-313B-4D86-B2E9-5120B0CB0604}|HeladeriaProyecto\\HeladeriaProyecto.csproj|c:\\users\\owner\\documents\\github\\heladeriaproyect\\heladeriaproyecto\\data\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC8CD11-313B-4D86-B2E9-5120B0CB0604}|HeladeriaProyecto\\HeladeriaProyecto.csproj|solutionrelative:heladeriaproyecto\\data\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BBC8CD11-313B-4D86-B2E9-5120B0CB0604}|HeladeriaProyecto\\HeladeriaProyecto.csproj|c:\\users\\owner\\documents\\github\\heladeriaproyect\\heladeriaproyecto\\entities\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBC8CD11-313B-4D86-B2E9-5120B0CB0604}|HeladeriaProyecto\\HeladeriaProyecto.csproj|solutionrelative:heladeriaproyecto\\entities\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBC8CD11-313B-4D86-B2E9-5120B0CB0604}|HeladeriaProyecto\\HeladeriaProyecto.csproj|c:\\users\\owner\\documents\\github\\heladeriaproyect\\heladeriaproyecto\\data\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBC8CD11-313B-4D86-B2E9-5120B0CB0604}|HeladeriaProyecto\\HeladeriaProyecto.csproj|solutionrelative:heladeriaproyecto\\data\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBC8CD11-313B-4D86-B2E9-5120B0CB0604}|HeladeriaProyecto\\HeladeriaProyecto.csproj|c:\\users\\owner\\documents\\github\\heladeriaproyect\\heladeriaproyecto\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC8CD11-313B-4D86-B2E9-5120B0CB0604}|HeladeriaProyecto\\HeladeriaProyecto.csproj|solutionrelative:heladeriaproyecto\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBC8CD11-313B-4D86-B2E9-5120B0CB0604}|HeladeriaProyecto\\HeladeriaProyecto.csproj|c:\\users\\owner\\documents\\github\\heladeriaproyect\\heladeriaproyecto\\heladeriaproyecto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BBC8CD11-313B-4D86-B2E9-5120B0CB0604}|HeladeriaProyecto\\HeladeriaProyecto.csproj|solutionrelative:heladeriaproyecto\\heladeriaproyecto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{BBC8CD11-313B-4D86-B2E9-5120B0CB0604}|HeladeriaProyecto\\HeladeriaProyecto.csproj|c:\\users\\owner\\documents\\github\\heladeriaproyect\\heladeriaproyecto\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC8CD11-313B-4D86-B2E9-5120B0CB0604}|HeladeriaProyecto\\HeladeriaProyecto.csproj|solutionrelative:heladeriaproyecto\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BBC8CD11-313B-4D86-B2E9-5120B0CB0604}|HeladeriaProyecto\\HeladeriaProyecto.csproj|c:\\users\\owner\\documents\\github\\heladeriaproyect\\heladeriaproyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBC8CD11-313B-4D86-B2E9-5120B0CB0604}|HeladeriaProyecto\\HeladeriaProyecto.csproj|solutionrelative:heladeriaproyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBC8CD11-313B-4D86-B2E9-5120B0CB0604}|HeladeriaProyecto\\HeladeriaProyecto.csproj|c:\\users\\owner\\documents\\github\\heladeriaproyect\\heladeriaproyecto\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBC8CD11-313B-4D86-B2E9-5120B0CB0604}|HeladeriaProyecto\\HeladeriaProyecto.csproj|solutionrelative:heladeriaproyecto\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\Entities\\Usuario.cs",
               "RelativeDocumentMoniker": "HeladeriaProyecto\\Entities\\Usuario.cs",
@@ -47,11 +43,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-02T15:54:14.073Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "UsuarioService.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\Services\\UsuarioService.cs",
               "RelativeDocumentMoniker": "HeladeriaProyecto\\Services\\UsuarioService.cs",
@@ -72,19 +69,8 @@
               "RelativeToolTip": "HeladeriaProyecto\\Entities\\Venta.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T15:54:21.63Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HeladeriaProyecto.csproj",
-              "DocumentMoniker": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\HeladeriaProyecto.csproj",
-              "RelativeDocumentMoniker": "HeladeriaProyecto\\HeladeriaProyecto.csproj",
-              "ToolTip": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\HeladeriaProyecto.csproj",
-              "RelativeToolTip": "HeladeriaProyecto\\HeladeriaProyecto.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-02T15:40:43.5Z"
+              "WhenOpened": "2026-04-02T15:54:21.63Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -100,15 +86,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Conexion.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\Data\\Conexion.cs",
               "RelativeDocumentMoniker": "HeladeriaProyecto\\Data\\Conexion.cs",
               "ToolTip": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\Data\\Conexion.cs",
               "RelativeToolTip": "HeladeriaProyecto\\Data\\Conexion.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAlwA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T15:42:03.27Z"
+              "WhenOpened": "2026-04-02T15:42:03.27Z",
+              "EditorCaption": ""
             }
           ]
         }
