@@ -40,7 +40,12 @@ class Program
         {
             Console.WriteLine("\n--- MENÚ PRINCIPAL ---");
             Console.WriteLine("1. Crear sabor");
+<<<<<<< HEAD
+            Console.WriteLine("2. Listar sabores");
+            Console.WriteLine("3. Salir");
+=======
             Console.WriteLine("2. Salir");
+>>>>>>> d3bc144af7f4e8864a17c79480989d96b080cfbc
 
             Console.Write("Seleccione: ");
             opcion = int.Parse(Console.ReadLine());
@@ -50,9 +55,18 @@ class Program
                 case 1:
                     CrearSabor(service);
                     break;
+<<<<<<< HEAD
+                case 2:
+                    ListarSabores(service);
+                    break;
+            }
+
+        } while (opcion != 3);
+=======
             }
 
         } while (opcion != 2);
+>>>>>>> d3bc144af7f4e8864a17c79480989d96b080cfbc
     }
 
     static void CrearSabor(SaborService service)
@@ -78,4 +92,19 @@ class Program
         Console.WriteLine("1. Gestionar sabores");
         Console.WriteLine("2. Salir");
     }
+<<<<<<< HEAD
+
+    static void ListarSabores(SaborService service)
+    {
+        var lista = service.ObtenerTodos();
+
+        Console.WriteLine("\n--- LISTA DE SABORES ---");
+
+        foreach (var s in lista)
+        {
+            Console.WriteLine($"{s.Id} - {s.Nombre} - {s.Descripcion} - {s.Precio}");
+        }
+    }
+=======
+>>>>>>> d3bc144af7f4e8864a17c79480989d96b080cfbc
 }
