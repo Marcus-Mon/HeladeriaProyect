@@ -30,5 +30,9 @@ namespace HeladeriaProyect.Services
                 }
             }
         }
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
     }
 }
