@@ -46,8 +46,7 @@
               "RelativeToolTip": "HeladeriaProyect\\Services\\UsuarioService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T02:41:44.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T02:41:44.943Z"
             },
             {
               "$type": "Document",
@@ -57,7 +56,7 @@
               "RelativeDocumentMoniker": "HeladeriaProyect\\Data\\Conexion.cs",
               "ToolTip": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyect\\Data\\Conexion.cs",
               "RelativeToolTip": "HeladeriaProyect\\Data\\Conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-02T02:38:44.663Z",
               "EditorCaption": ""
@@ -65,15 +64,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HeladeriaProyect",
+              "Title": "HeladeriaProyect.csproj",
               "DocumentMoniker": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyect\\HeladeriaProyect.csproj",
               "RelativeDocumentMoniker": "HeladeriaProyect\\HeladeriaProyect.csproj",
               "ToolTip": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyect\\HeladeriaProyect.csproj",
               "RelativeToolTip": "HeladeriaProyect\\HeladeriaProyect.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-02T02:38:15.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T02:38:15.753Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "HeladeriaProyect\\Entities\\Venta.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T22:21:22.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-01T22:21:22.745Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "HeladeriaProyect\\Entities\\SaborHelado.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T21:38:56.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-01T21:38:56.85Z"
             },
             {
               "$type": "Document",
@@ -111,8 +107,7 @@
               "RelativeToolTip": "HeladeriaProyect\\Entities\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T21:37:27.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-01T21:37:27.565Z"
             }
           ]
         }
