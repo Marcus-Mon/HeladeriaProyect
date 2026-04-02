@@ -1,25 +1,39 @@
-var builder = WebApplication.CreateBuilder(args);
+using HeladeriaProyect.Services;
 
-// Add services to the container.
-
-builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
-
-var app = builder.Build();
-
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
+class Program
 {
-    app.UseSwagger();
-    app.UseSwaggerUI();
+    static void Main(string[] args)
+    {
+        UsuarioService usuarioService = new UsuarioService();
+
+        Console.WriteLine("=== LOGIN HELADERÍA ===");
+
+        Console.Write("Usuario: ");
+        string user = Console.ReadLine();
+
+        Console.Write("Contraseña: ");
+        string pass = Console.ReadLine();
+
+        bool loginExitoso = usuarioService.Login(user, pass);
+
+        if (loginExitoso)
+        {
+            Console.WriteLine("Login correcto. Bienvenido!");
+            MostrarMenu();
+        }
+        else
+        {
+            Console.WriteLine("Usuario o contraseña incorrectos");
+        }
+
+        Console.ReadLine();
+    }
+
+    static void MostrarMenu()
+    {
+        Console.WriteLine("\n--- MENÚ PRINCIPAL ---");
+        Console.WriteLine("1. Gestionar sabores");
+        Console.WriteLine("2. Salir");
+    }
 }
 
-app.UseHttpsRedirection();
-
-app.UseAuthorization();
-
-app.MapControllers();
-
-app.Run();
