@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{999F4658-8BE9-465C-9571-C070D2C4241C}|HeladeriaProyect\\HeladeriaProyect.csproj|solutionrelative:heladeriaproyect\\entities\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{999F4658-8BE9-465C-9571-C070D2C4241C}|HeladeriaProyect\\HeladeriaProyect.csproj|c:\\users\\owner\\documents\\github\\heladeriaproyect\\heladeriaproyect\\entities\\saborhelado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{999F4658-8BE9-465C-9571-C070D2C4241C}|HeladeriaProyect\\HeladeriaProyect.csproj|solutionrelative:heladeriaproyect\\entities\\saborhelado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{999F4658-8BE9-465C-9571-C070D2C4241C}|HeladeriaProyect\\HeladeriaProyect.csproj|c:\\users\\owner\\documents\\github\\heladeriaproyect\\heladeriaproyect\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{999F4658-8BE9-465C-9571-C070D2C4241C}|HeladeriaProyect\\HeladeriaProyect.csproj|solutionrelative:heladeriaproyect\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999F4658-8BE9-465C-9571-C070D2C4241C}|HeladeriaProyect\\HeladeriaProyect.csproj|c:\\users\\owner\\documents\\github\\heladeriaproyect\\heladeriaproyect\\entities\\saborhelado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{999F4658-8BE9-465C-9571-C070D2C4241C}|HeladeriaProyect\\HeladeriaProyect.csproj|solutionrelative:heladeriaproyect\\entities\\saborhelado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,14 +32,14 @@
               "RelativeDocumentMoniker": "HeladeriaProyect\\Entities\\Venta.cs",
               "ToolTip": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyect\\Entities\\Venta.cs",
               "RelativeToolTip": "HeladeriaProyect\\Entities\\Venta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-01T22:21:22.745Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SaborHelado.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyect\\Entities\\SaborHelado.cs",
               "RelativeDocumentMoniker": "HeladeriaProyect\\Entities\\SaborHelado.cs",
@@ -52,15 +52,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyect\\Entities\\Usuario.cs",
               "RelativeDocumentMoniker": "HeladeriaProyect\\Entities\\Usuario.cs",
               "ToolTip": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyect\\Entities\\Usuario.cs",
               "RelativeToolTip": "HeladeriaProyect\\Entities\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T21:37:27.565Z"
+              "WhenOpened": "2026-04-01T21:37:27.565Z",
+              "EditorCaption": ""
             }
           ]
         }
