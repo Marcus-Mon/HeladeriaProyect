@@ -1,4 +1,4 @@
-﻿using HeladeriaProyecto.Data;
+﻿using HeladeriaProyect.Data;
 using Microsoft.Data.SqlClient;
 
 namespace HeladeriaProyect.Services
@@ -30,5 +30,6 @@ namespace HeladeriaProyect.Services
                 }
             }
         }
+
     }
 }
