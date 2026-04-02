@@ -1,23 +1,28 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Microsoft.Data.SqlClient;
+using Microsoft.Extensions.Configuration;
+using System;
+using System.IO;
+namespace HeladeriaProyect.Data
 
-namespace HeladeriaProyecto.Data
 {
     public class Conexion
     {
-        private string connectionString;
+        private readonly string connectionString;
 
         public Conexion()
         {
-            var configuration = new ConfigurationBuilder()
-                .SetBasePath(AppContext.BaseDirectory)
+            IConfiguration configuration = new ConfigurationBuilder()
+                .SetBasePath(Directory.GetCurrentDirectory()) // Cambiado para usar Directory.GetCurrentDirectory()
                 .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
                 .Build();
 
             connectionString = configuration.GetConnectionString("HeladeriaDB");
+
+            // Validación para evitar errores silenciosos
+            if (string.IsNullOrEmpty(connectionString))
+            {
+                throw new Exception("La cadena de conexión 'HeladeriaDB' no fue encontrada en appsettings.json");
+            }
         }
 
         public SqlConnection ObtenerConexion()
