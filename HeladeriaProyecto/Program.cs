@@ -74,5 +74,8 @@ class Program
         });
 
         Console.WriteLine("Sabor creado correctamente");
+        Console.WriteLine("\n--- MENÚ PRINCIPAL ---");
+        Console.WriteLine("1. Gestionar sabores");
+        Console.WriteLine("2. Salir");
     }
 }
