@@ -1,7 +1,10 @@
 ﻿using HeladeriaProyect.Data;
 using HeladeriaProyecto.Entities;
 using Microsoft.Data.SqlClient;
+<<<<<<< HEAD
 using System.Collections.Generic;
+=======
+>>>>>>> d3bc144af7f4e8864a17c79480989d96b080cfbc
 
 namespace HeladeriaProyecto.Services
 {
@@ -24,6 +27,7 @@ namespace HeladeriaProyecto.Services
                 cmd.ExecuteNonQuery();
             }
         }
+<<<<<<< HEAD
 
         public List<SaborHelado> ObtenerTodos()
         {
@@ -51,6 +55,8 @@ namespace HeladeriaProyecto.Services
 
             return lista;
         }
+=======
+>>>>>>> d3bc144af7f4e8864a17c79480989d96b080cfbc
     }
 }
 
