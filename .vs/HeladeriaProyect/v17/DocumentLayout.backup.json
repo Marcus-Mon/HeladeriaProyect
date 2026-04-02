@@ -3,21 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\",
   "Documents": [
     {
-<<<<<<< Updated upstream
-      "AbsoluteMoniker": "D:0:0:{BBC8CD11-313B-4D86-B2E9-5120B0CB0604}|HeladeriaProyecto\\HeladeriaProyecto.csproj|c:\\users\\owner\\documents\\github\\heladeriaproyect\\heladeriaproyecto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BBC8CD11-313B-4D86-B2E9-5120B0CB0604}|HeladeriaProyecto\\HeladeriaProyecto.csproj|solutionrelative:heladeriaproyecto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBC8CD11-313B-4D86-B2E9-5120B0CB0604}|HeladeriaProyecto\\HeladeriaProyecto.csproj|c:\\users\\owner\\documents\\github\\heladeriaproyect\\heladeriaproyecto\\entities\\saborhelado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBC8CD11-313B-4D86-B2E9-5120B0CB0604}|HeladeriaProyecto\\HeladeriaProyecto.csproj|solutionrelative:heladeriaproyecto\\entities\\saborhelado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBC8CD11-313B-4D86-B2E9-5120B0CB0604}|HeladeriaProyecto\\HeladeriaProyecto.csproj|c:\\users\\owner\\documents\\github\\heladeriaproyect\\heladeriaproyecto\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC8CD11-313B-4D86-B2E9-5120B0CB0604}|HeladeriaProyecto\\HeladeriaProyecto.csproj|solutionrelative:heladeriaproyecto\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BBC8CD11-313B-4D86-B2E9-5120B0CB0604}|HeladeriaProyecto\\HeladeriaProyecto.csproj|c:\\users\\owner\\documents\\github\\heladeriaproyect\\heladeriaproyecto\\entities\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBC8CD11-313B-4D86-B2E9-5120B0CB0604}|HeladeriaProyecto\\HeladeriaProyecto.csproj|solutionrelative:heladeriaproyecto\\entities\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBC8CD11-313B-4D86-B2E9-5120B0CB0604}|HeladeriaProyecto\\HeladeriaProyecto.csproj|c:\\users\\owner\\documents\\github\\heladeriaproyect\\heladeriaproyecto\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBC8CD11-313B-4D86-B2E9-5120B0CB0604}|HeladeriaProyecto\\HeladeriaProyecto.csproj|solutionrelative:heladeriaproyecto\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BBC8CD11-313B-4D86-B2E9-5120B0CB0604}|HeladeriaProyecto\\HeladeriaProyecto.csproj|c:\\users\\owner\\documents\\github\\heladeriaproyect\\heladeriaproyecto\\data\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,26 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BBC8CD11-313B-4D86-B2E9-5120B0CB0604}|HeladeriaProyecto\\HeladeriaProyecto.csproj|c:\\users\\owner\\documents\\github\\heladeriaproyect\\heladeriaproyecto\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBC8CD11-313B-4D86-B2E9-5120B0CB0604}|HeladeriaProyecto\\HeladeriaProyecto.csproj|solutionrelative:heladeriaproyecto\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HeladeriaProyecto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\Services\\UsuarioService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HeladeriaProyecto\\Services\\UsuarioService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\Data\\Conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HeladeriaProyecto\\Data\\Conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HeladeriaProyecto\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\Entities\\SaborHelado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HeladeriaProyecto\\Entities\\SaborHelado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -63,93 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< Updated upstream
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\Services\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "HeladeriaProyecto\\Services\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\Services\\UsuarioService.cs*",
-              "RelativeToolTip": "HeladeriaProyecto\\Services\\UsuarioService.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T15:54:45.448Z",
-=======
-          "SelectedChildIndex": 2,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\Services\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "HeladeriaProyecto\\Services\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\Services\\UsuarioService.cs",
-              "RelativeToolTip": "HeladeriaProyecto\\Services\\UsuarioService.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T18:14:19.909Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SaborHelado.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\Entities\\SaborHelado.cs",
-              "RelativeDocumentMoniker": "HeladeriaProyecto\\Entities\\SaborHelado.cs",
-              "ToolTip": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\Entities\\SaborHelado.cs",
-              "RelativeToolTip": "HeladeriaProyecto\\Entities\\SaborHelado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T15:53:57.512Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\appsettings.json",
-              "RelativeDocumentMoniker": "HeladeriaProyecto\\appsettings.json",
-              "ToolTip": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\appsettings.json",
-              "RelativeToolTip": "HeladeriaProyecto\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-02T15:50:08.723Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\Program.cs",
-              "RelativeDocumentMoniker": "HeladeriaProyecto\\Program.cs",
-              "ToolTip": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\Program.cs",
-              "RelativeToolTip": "HeladeriaProyecto\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T15:38:21.562Z",
->>>>>>> Stashed changes
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-<<<<<<< Updated upstream
-              "Title": "Venta.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\Entities\\Venta.cs",
-              "RelativeDocumentMoniker": "HeladeriaProyecto\\Entities\\Venta.cs",
-              "ToolTip": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\Entities\\Venta.cs",
-              "RelativeToolTip": "HeladeriaProyecto\\Entities\\Venta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T15:54:21.63Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\Entities\\Usuario.cs",
               "RelativeDocumentMoniker": "HeladeriaProyecto\\Entities\\Usuario.cs",
@@ -157,37 +46,37 @@
               "RelativeToolTip": "HeladeriaProyecto\\Entities\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T15:54:14.073Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SaborHelado.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\Entities\\SaborHelado.cs",
-              "RelativeDocumentMoniker": "HeladeriaProyecto\\Entities\\SaborHelado.cs",
-              "ToolTip": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\Entities\\SaborHelado.cs",
-              "RelativeToolTip": "HeladeriaProyecto\\Entities\\SaborHelado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T15:53:57.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T15:54:14.073Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\appsettings.json",
-              "RelativeDocumentMoniker": "HeladeriaProyecto\\appsettings.json",
-              "ToolTip": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\appsettings.json",
-              "RelativeToolTip": "HeladeriaProyecto\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-02T15:50:08.723Z",
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "HeladeriaProyecto\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "HeladeriaProyecto\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T15:54:45.448Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\Entities\\Venta.cs",
+              "RelativeDocumentMoniker": "HeladeriaProyecto\\Entities\\Venta.cs",
+              "ToolTip": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\Entities\\Venta.cs",
+              "RelativeToolTip": "HeladeriaProyecto\\Entities\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T15:54:21.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "HeladeriaProyecto.csproj",
               "DocumentMoniker": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\HeladeriaProyecto.csproj",
               "RelativeDocumentMoniker": "HeladeriaProyecto\\HeladeriaProyecto.csproj",
@@ -199,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\Program.cs",
               "RelativeDocumentMoniker": "HeladeriaProyecto\\Program.cs",
@@ -211,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Conexion.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\Data\\Conexion.cs",
               "RelativeDocumentMoniker": "HeladeriaProyecto\\Data\\Conexion.cs",
@@ -220,17 +109,6 @@
               "ViewState": "AgIAAAIAAAAAAAAAAAAlwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-02T15:42:03.27Z"
-=======
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\Data\\Conexion.cs",
-              "RelativeDocumentMoniker": "HeladeriaProyecto\\Data\\Conexion.cs",
-              "ToolTip": "C:\\Users\\owner\\Documents\\GitHub\\HeladeriaProyect\\HeladeriaProyecto\\Data\\Conexion.cs",
-              "RelativeToolTip": "HeladeriaProyecto\\Data\\Conexion.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAowB8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T15:42:03.27Z",
-              "EditorCaption": ""
->>>>>>> Stashed changes
             }
           ]
         }
