@@ -2,8 +2,8 @@
 using Microsoft.Extensions.Configuration;
 using System;
 using System.IO;
-
 namespace HeladeriaProyect.Data
+
 {
     public class Conexion
     {
