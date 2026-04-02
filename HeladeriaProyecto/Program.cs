@@ -1,4 +1,4 @@
-﻿using HeladeriaProyecto.Services;
+﻿using HeladeriaProyect.Services;
 
 class Program
 {
