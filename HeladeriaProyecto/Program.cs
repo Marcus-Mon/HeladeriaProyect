@@ -42,7 +42,8 @@ class Program
             Console.WriteLine("1. Crear sabor");
             Console.WriteLine("2. Listar sabores");
             Console.WriteLine("3. Editar sabor");
-            Console.WriteLine("4. Salir");
+            Console.WriteLine("4. Eliminar sabor");
+            Console.WriteLine("5. Salir");
 
             Console.Write("Seleccione: ");
             opcion = int.Parse(Console.ReadLine());
@@ -58,15 +59,12 @@ class Program
                 case 3:
                     EditarSabor(service);
                     break;
-            }
-
-        } while (opcion != 5);
-                case 2:
-                    ListarSabores(service);
+                case 4:
+                    EliminarSabor(service);
                     break;
             }
 
-        } while (opcion != 3);
+        } while (opcion != 5);
     }
 
     static void CrearSabor(SaborService service)
@@ -126,5 +124,14 @@ class Program
 
         Console.WriteLine("Sabor actualizado correctamente");
     }
-    
+
+    static void EliminarSabor(SaborService service)
+    {
+        Console.Write("ID del sabor a eliminar: ");
+        int id = int.Parse(Console.ReadLine());
+
+        service.Eliminar(id);
+
+        Console.WriteLine("Sabor eliminado correctamente");
+    }
 }
