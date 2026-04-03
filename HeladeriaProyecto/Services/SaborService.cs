@@ -69,20 +69,6 @@ namespace HeladeriaProyecto.Services
                 cmd.ExecuteNonQuery();
             }
         }
-
-        public void Eliminar(int id)
-        {
-            using (SqlConnection conn = conexion.ObtenerConexion())
-            {
-                string query = "DELETE FROM Sabores WHERE Id=@id";
-                SqlCommand cmd = new SqlCommand(query, conn);
-
-                cmd.Parameters.AddWithValue("@id", id);
-
-                conn.Open();
-                cmd.ExecuteNonQuery();
-            }
-        }
     }
 }
 
