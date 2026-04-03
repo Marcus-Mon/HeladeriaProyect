@@ -42,8 +42,7 @@ class Program
             Console.WriteLine("1. Crear sabor");
             Console.WriteLine("2. Listar sabores");
             Console.WriteLine("3. Editar sabor");
-            Console.WriteLine("4. Eliminar sabor");
-            Console.WriteLine("5. Salir");
+            Console.WriteLine("4. Salir");
 
             Console.Write("Seleccione: ");
             opcion = int.Parse(Console.ReadLine());
@@ -62,6 +61,12 @@ class Program
             }
 
         } while (opcion != 5);
+                case 2:
+                    ListarSabores(service);
+                    break;
+            }
+
+        } while (opcion != 3);
     }
 
     static void CrearSabor(SaborService service)
@@ -82,7 +87,7 @@ class Program
             Precio = precio
         });
 
-        Console.WriteLine("✅ Sabor creado correctamente");
+        Console.WriteLine("Sabor creado correctamente");
     }
 
     static void ListarSabores(SaborService service)
@@ -119,8 +124,7 @@ class Program
             Precio = precio
         });
 
-        Console.WriteLine("✏️ Sabor actualizado correctamente");
+        Console.WriteLine("Sabor actualizado correctamente");
     }
-
     
 }
